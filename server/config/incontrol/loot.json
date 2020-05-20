@@ -1,0 +1,46 @@
+[
+	{
+		"mob": "Villager",
+		"item": "minecraft:emerald",
+		"itemcount": "1-3"
+	},
+
+	{
+		"mob": "Enderman",
+		"item": "minecraft:ender_pearl",
+		"itemcount": "1"
+	},
+
+	{
+		"mob": "Blaze",
+		"item": "minecraft:blaze_rod",
+		"itemcount": "1"
+	},
+	{
+		"mob": "Blaze",
+		"item": "minecraft:blaze_powder",
+		"itemcount": "0-2"
+	},
+
+	{
+		"mob": "thermalfoundation:blizz",
+		"item": "thermalfoundation:material@2048",
+		"itemcount": "1"
+	},
+	{
+		"mob": "thermalfoundation:blizz",
+		"item": "thermalfoundation:material@2049",
+		"itemcount": "0-2"
+	},
+
+	{
+		"mob": "thermalfoundation:blitz",
+		"item": "thermalfoundation:material@2050",
+		"itemcount": "1"
+	},
+	{
+		"mob": "thermalfoundation:blitz",
+		"item": "thermalfoundation:material@2051",
+		"itemcount": "0-2"
+	}
+]
